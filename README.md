@@ -13,7 +13,7 @@ Hi there 👋 ## Hi tere  👋
 
 <!-- 방문자 수 -->
 
-!footer
+![footer]
 <!--
 pipapalula/pipapalula is a ✨
  special ✨
