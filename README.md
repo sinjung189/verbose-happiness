@@ -5,15 +5,15 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pipapalula&theme=default)
 
 <!-- 기술 스택 뱃지 -->
-![React]
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-![Next.js]
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-![TypeScript]
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 <!-- 방문자 수 -->
 
-![footer]
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn)
 <!--
 kimsinjund is a ✨
  special ✨
