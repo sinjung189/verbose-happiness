@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hi%20therekimsinjund%20I%27m%20pipapalula%20kimsinjund&fontColor=4254ff&fontSize=50&&fontAlignY=20&animation=fadeIn)
 
 
-Hi there 👋
+Hi there 👋 ## Hi tere  👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pipapalula&theme=default)
 
 <!-- 기술 스택 뱃지 -->
