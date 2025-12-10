@@ -5,11 +5,11 @@ Hi there 👋 ## Hi tere  👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pipapalula&theme=default)
 
 <!-- 기술 스택 뱃지 -->
-!React
+![React]
 
-!Next.js
+![Next.js]
 
-!TypeScript
+![TypeScript]
 
 <!-- 방문자 수 -->
 
