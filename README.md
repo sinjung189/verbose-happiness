@@ -15,7 +15,9 @@
 **저의 이름 걸고 프론엔드 개발자로서 한 걸음씩 확실하게 성장해 나가겠습니다.** <br>
 
 ---
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=190422&background=BD3E1800&vCenter=true&repeat=false&width=435&lines=My+Strength✨)](https://git.io/typing-svg)
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2500&pause=100000&color=0E202F&width=435&lines=My+Strength✨)](https://git.io/typing-svg)
+
 - 지속적 학습 & 꾸준함
 - 원활한 커뮤니케이션
 - 책임감 있는 실행력
