@@ -4,6 +4,8 @@
 <div class="data-top">
 
 ---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=190422&background=BD3E1800&vCenter=true&width=435&lines=For+Me)](https://git.io/typing-svg)
     
 ## For Me 💬
 
