@@ -37,10 +37,12 @@ For Me 💬
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn) 
 
+<div>
+
 ## How to reach me 📫
 ---
 Email:**wkrldi123456789@gmail.com** | GitHub:**https://github.com/Winter-Haeum/Winte**
-
+</div>
 
 <!--
 kimsinjund is a ✨
