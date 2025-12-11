@@ -4,6 +4,8 @@
 ## Hi there 👋 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pipapalula&theme=default)
 
+---
+
 <!-- 기술 스택 뱃지 -->
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
