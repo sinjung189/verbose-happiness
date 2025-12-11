@@ -38,6 +38,8 @@ For Me 💬
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn) 
 
 ## How to reach me 📫
+---
+Email:wkrldi123456789@gmail.com | GitHub:https://github.com/Winter-Haeum/Winte
 
 
 <!--
@@ -63,8 +65,4 @@ Here are some ideas to get you started:
  Pronouns: ...
 ⚡
  Fun fact: ...
-
- <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&display=swap" rel="stylesheet">
 --> 
