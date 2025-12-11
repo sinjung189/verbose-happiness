@@ -26,8 +26,11 @@
 
 ----
 
-## Hi there 👋 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pipapalula&theme=default)
+## 🎯 Goals
+
+- 빠짐없이 디테일 하나하나 잘 챙기고 자연스러운 UI/UX 구현하는 성장력 보여주기
+- 끈기와 책임감 버리지말고 끝까지 나아가 HTML/CSS/java 정복하기
+- 여러가지 반응형 웹 페이지 , 디자인 구현해보기   
 
 
 ---
