@@ -27,7 +27,7 @@ For Me 💬
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn) 
 
-How to reach me 📫
+## How to reach me 📫
 
 
 <!--
