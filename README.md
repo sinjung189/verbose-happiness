@@ -11,13 +11,14 @@ For Me 💬
 **저의 이름 걸고 프론엔드 개발자로서 한 걸음씩 확실하게 성장해 나가겠습니다.** <br>
 
 ---
-## My Strength
+## My Strength ✨
 - 지속적 학습 & 꾸준함
 - 원활한 커뮤니케이션
 - 책임감 있는 실행력
 - 관찰력
 - 창의력
 
+----
 
 ## Hi there 👋 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pipapalula&theme=default)
