@@ -39,7 +39,7 @@ For Me 💬
 
 ## How to reach me 📫
 ---
-Email:wkrldi123456789@gmail.com | GitHub:https://github.com/Winter-Haeum/Winte
+Email:**wkrldi123456789@gmail.com** | GitHub:**https://github.com/Winter-Haeum/Winte**
 
 
 <!--
