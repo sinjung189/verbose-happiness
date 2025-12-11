@@ -78,9 +78,4 @@ Here are some ideas to get you started:
  Fun fact: ...
 --> 
 
-<style>
-        
-.data { display :flex }
-.data-top { font size: 30px 
-          
-</style>
+.data { font size: 30px}
