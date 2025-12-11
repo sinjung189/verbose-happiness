@@ -39,7 +39,6 @@
 
 <!-- 방문자 수 -->
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn) 
 
 <div>
 
@@ -50,6 +49,9 @@
 **2025.11.18 ~ 2026.04.07 : [이스트캠프] 프론트엔드 11기 참여 중** 
 
 </div>
+
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn) 
 
 <!--
 kimsinjund is a ✨
