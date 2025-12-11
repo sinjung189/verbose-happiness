@@ -79,6 +79,6 @@ Here are some ideas to get you started:
 --> 
 
 <style>
- .data {  }
+ .data { display :flex }
     .data-top { font size: 15px }
 </style>
