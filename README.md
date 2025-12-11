@@ -31,6 +31,8 @@
 
 ---
 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=9000&pause=100000&color=0E202F&width=435&lines=Currently+Learning⚡)](https://git.io/typing-svg)
+
 <!-- 기술 스택 뱃지 -->
 ![HTML](https://img.shields.io/badge/html5-orange) ![CSS](https://img.shields.io/badge/CSS-blue) <br>
 
