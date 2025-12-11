@@ -37,13 +37,13 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-<!-- 방문자 수 >
+<!-- 방문자 수 -->
 
----
 
 <div>
 
 ## How to reach me 📫
+
 
 - **Email:wkrldi123456789@gmail.com**  <br>
 - **GitHub:https://github.com/Winter-Haeum/Winte** <br>
