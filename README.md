@@ -39,6 +39,7 @@
 
 <!-- 방문자 수 -->
 
+----
 
 <div>
 
@@ -51,7 +52,7 @@
 
 </div>
 
----
+
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn) 
 
