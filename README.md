@@ -42,8 +42,8 @@
 ----
 
 <div>
-
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=190422&background=BD3E1800&vCenter=true&repeat=false&width=435&lines=How+to+reach+me📫)](https://git.io/typing-svg)
+ 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=9000&pause=100000&color=0E202F&width=435&lines=How+to+reach+me📫)](https://git.io/typing-svg)
 
 - **Email:wkrldi123456789@gmail.com**  <br>
 - **GitHub:https://github.com/Winter-Haeum/Winte** <br>
