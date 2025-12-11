@@ -44,9 +44,6 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=190422&background=BD3E1800&vCenter=true&repeat=false&width=435&lines=How+to+reach+me📫)](https://git.io/typing-svg)
 
-## How to reach me 📫
-
-
 - **Email:wkrldi123456789@gmail.com**  <br>
 - **GitHub:https://github.com/Winter-Haeum/Winte** <br>
 **2025.11.18 ~ 2026.04.07 : [이스트캠프] 프론트엔드 11기 참여 중** 
