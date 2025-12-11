@@ -3,7 +3,7 @@
 <div class="data">
 <div class="data-top">
         
-**2025.11.18 ~ 2026.04.07 : [이스트캠프] 프론트엔드 11기 참여 중** 
+                **2025.11.18 ~ 2026.04.07 : [이스트캠프] 프론트엔드 11기 참여 중** 
         
 </div>
 </div>
@@ -78,4 +78,4 @@ Here are some ideas to get you started:
  Fun fact: ...
 --> 
 
-.data { font size: 30px}
+
