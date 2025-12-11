@@ -5,7 +5,7 @@
 
 ---
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=100000&color=0E202F&width=435&lines=For+Me💬)](https://git.io/typing-svg)    
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=8000&pause=100000&color=0E202F&width=435&lines=For+Me💬)](https://git.io/typing-svg)    
 
 현재 프론트엔드 **개발에 큰 흥미를 느껴 관련 수업을 들으며 꾸준히 실력을 쌓아가는 중**입니다. <br>
 새로운 분야를 어느정도 이해하고 정리하는 능력이 있어 학습 속도도 준수한 편이고, <br>
@@ -15,7 +15,7 @@
 
 ---
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4500&pause=100000&color=0E202F&width=435&lines=My+Strength✨)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=6000&pause=100000&color=0E202F&width=435&lines=My+Strength✨)](https://git.io/typing-svg)
 
 - 지속적 학습 & 꾸준함
 - 원활한 커뮤니케이션
