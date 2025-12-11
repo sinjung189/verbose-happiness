@@ -16,7 +16,7 @@
 
 ---
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2500&pause=100000&color=0E202F&width=435&lines=My+Strength✨)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4500&pause=100000&color=0E202F&width=435&lines=My+Strength✨)](https://git.io/typing-svg)
 
 - 지속적 학습 & 꾸준함
 - 원활한 커뮤니케이션
