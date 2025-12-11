@@ -4,8 +4,8 @@
 <div class="data-top">
 
 ---
-    
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=190422&background=BD3E1800&vCenter=true&repeat=false&width=435&lines=For+Me💬)](https://git.io/typing-svg)
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=100000&color=0E202F&width=435&lines=For+Me💬)](https://git.io/typing-svg)    
 
 전공을 전환하면서 프론트엔드 **개발에 큰 흥미를 느껴 관련 수업을 들으며 꾸준히 실력을 쌓아가는 중**입니다. <br>
 비전공자로 시작했지만 새로운 분야를 빠르게 이해하고 정리하는 능력이 있어 학습 속도도 준수한 편이고, <br>
