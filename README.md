@@ -39,7 +39,6 @@
 
 <!-- 방문자 수 -->
 
-
 <div>
 
 ## How to reach me 📫
@@ -50,6 +49,7 @@
 
 </div>
 
+---
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn) 
 
