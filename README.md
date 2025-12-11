@@ -27,6 +27,9 @@ For Me 💬
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn) 
 
+How to reach me 📫
+
+
 <!--
 kimsinjund is a ✨
  special ✨
