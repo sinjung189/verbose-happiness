@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hi%20there👋%20I%27m%20%20kimsinjung&fontColor=4254ff&fontSize=50&&fontAlignY=20&animation=fadeIn)
-
-       
+---
+2025.11.18 ~ 2026.04.07 : {이스트캠프} 오르미 프론트엔드 11기 참여중
+---    
 For Me 💬
 ---
 전공을 전환하면서 프론트엔드 **개발에 큰 흥미를 느껴 관련 수업을 들으며 꾸준히 실력을 쌓아가는 중**입니다. <br>
