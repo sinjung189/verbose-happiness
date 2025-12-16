@@ -14,6 +14,7 @@
 책임감과 성실함을 기반으로 한 제 태도와 꾸준한 학습습관을 바탕으로 <br>
 **한 걸음씩 한 걸음씩 확실하게 성장해 나아가는 중입니다.** <br>
 
+
 ---
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=6000&pause=100000&color=0E202F&width=435&lines=My+Strength✨)](https://git.io/typing-svg)
